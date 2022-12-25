@@ -18,8 +18,8 @@ Trace:
 
 npm manifest: 
   {
-    "name": "Oscar-MD",
-    "version": "5.0.0",
+    "name": "SPARKY-BOT-MD",
+    "version": "1.0.0",
     "description": "Automated whatsapp md bot created using nodejs",
     "main": "index.js",
     "type": "commonjs",
