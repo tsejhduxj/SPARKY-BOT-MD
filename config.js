@@ -16,7 +16,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['917012984396'] //ganti nomer lu
 global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //nama lu
+global.developer = "ASWIN" //name
 global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
 global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
