@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //name
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
-global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
-global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
+global.vcardowner = ['918848120533'] //ganti nomer lu
+global.ownername = "Kerala•Alpha" //ganti nama lu
+global.developer = "ANANDH SAJI" //name
+global.ytname = "COMING SOON" //ur yt chanel name
+global.socialm = "https://www.instagram.com/kl_cyberking" //taroh sosialmedia lu kalo ga punya biarin aja
+global.sgc = "https://chat.whatsapp.com/GTnmwt0eTSw6uPJaucdLYH" //ganti group lu
+global.location = "Kerala,KTM,Pala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
+global.owner = ['918848120533'] //ur number
+global.ownernomer = "918848120533" //ur number
+global.ownertag = '918848120533' //ur tag number
+global.premium = ['918848120533'] //ur premium number
+global.botname = 'Kerala•Alpha' //ur bot name
+global.ownername = "Kerala•Alpha"
+global.linkz = "https://youtube.com" //your theme url which will be displayed on whatsapp
 global.dana = "917012984396"
 global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
-global.websitex1 = "https://sparkymodswa.blogspot.com"
-global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
+global.websitex = "https://youtube.com" //ur website to be displayed
+global.websitex1 = "https://chat.whatsapp.com/GTnmwt0eTSw6uPJaucdLYH"
+global.botscript = 'https://github.com' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "Kerala•Alpha" //ur sticker watermark packname
+global.author = "WHATAPP BOT BY ANANDH " //ur sticker watermark author
+global.wm = "Kerala•Alpha" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -62,10 +62,10 @@ global.limitawal = {
     premium: "Infinity",
     free: 50
 }
-global.thum = fs.readFileSync("./Media/theme/sparky.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Media/theme/sparky.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Media/theme/sparky.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Media/theme/sparky.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./Media/theme/sparky1.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./Media/theme/sparky1.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./Media/theme/sparky1.jpg") //ur error pic
+global.thumb = fs.readFileSync("./Media/theme/sparky1.jpg") //ur thumb pic
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
